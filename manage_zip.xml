@@ -1,7 +1,11 @@
 <?xml version="1.0"?>
 <tool id="manage_zip" name="Manage ZIP" version="1.0" force_history_refresh="True">
         <!--description>Manage ZIP collection</description-->
-
+        <requirements>
+	        <requirement type="package">zip</requirement>
+	        <requirement type="package">unzip</requirement>
+<!-- 	        <requirement type="package">zipnote</requirement> -->
+	</requirements>
         <!-- collect the parameters and provide these to the wrapper script -->
         <command>
 <![CDATA[
