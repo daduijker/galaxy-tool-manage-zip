@@ -1,0 +1,11 @@
+categories: 
+  - Convert Formats
+  - Fastq Manipulation
+description: Manage (ZIP) files in the current history. Extract or create .ZIP files, bulk rename ZIPed files or delete files from an archive.
+long_description: |
+  Manage (ZIP) files in the current history. Extract or create .ZIP files, bulk rename ZIPed files or delete files from an archive.
+homepage_url: https://github.com/naturalis/galaxy-tool-manage-zip
+name: naturalis_manage_zip
+owner: duijker.d
+remote_repository_url: https://gitlab.com/LCAB-Bioinformatics/galaxy/naturalis/galaxy-tool-manage-zip
+type: unrestricted
